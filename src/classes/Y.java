@@ -12,6 +12,7 @@ package classes;
 public class Y {
 
     public Y() {
+        System.out.println("hello");
     }
     
 }
